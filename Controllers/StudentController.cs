@@ -89,5 +89,21 @@ namespace git1.Controllers
 
             return NoContent();
         }
+
+        [HttpPut]
+        public async Task <IActionResult> AddColumn()
+        {
+            try
+            {
+                var student = await _context.Database.ExecuteSqlRawAsync("alter table Students Add age int");
+                return Ok("Column added successfully.");
+            }
+            catch 
+            {
+                return BadRequest();
+            }
+           
+
+        }
     }
 }
