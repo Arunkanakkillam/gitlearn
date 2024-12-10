@@ -166,3 +166,4 @@ D:\Gitlearn\git1\git1\obj\Debug\net8.0\refint\git1.dll
 D:\Gitlearn\git1\git1\obj\Debug\net8.0\git1.pdb
 D:\Gitlearn\git1\git1\obj\Debug\net8.0\git1.genruntimeconfig.cache
 D:\Gitlearn\git1\git1\obj\Debug\net8.0\ref\git1.dll
+D:\Gitlearn\git1\git1\obj\Debug\net8.0\git1.sourcelink.json

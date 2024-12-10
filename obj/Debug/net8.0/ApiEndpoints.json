@@ -47,6 +47,16 @@
   },
   {
     "ContainingType": "git1.Controllers.StudentsController",
+    "Method": "AddColumn",
+    "RelativePath": "api/Students",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "git1.Controllers.StudentsController",
     "Method": "GetStudent",
     "RelativePath": "api/Students/{id}",
     "HttpMethod": "GET",
